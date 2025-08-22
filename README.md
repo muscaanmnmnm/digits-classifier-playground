@@ -27,3 +27,29 @@ The model is trained on the Digits dataset (8x8 grayscale images of handwritten 
 Here’s an example of the model’s predictions:
 
 ![Results](results.png)
+
+---
+
+## 🛠️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/handwritten-digits-knn.git
+   cd handwritten-digits-knn
+2. Install dependencies:
+   ```bash
+pip install -r requirements.txt
+3. Run the project:
+    ```bash
+python main.py
+
+---
+
+## 🚀 Future Improvements
+
+1. Experiment with different values of *k* to compare performance.  
+2. Try other distance metrics (e.g., Manhattan, Cosine).  
+3. Extend the project to use other datasets (like MNIST).  
+4. Optimize performance for larger datasets.  
+5. Add a simple web app or GUI to make predictions interactively.
+

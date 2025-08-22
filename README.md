@@ -1,7 +1,7 @@
-# Handwritten Digits Classification (k-NN)
+# 🖊️ Handwritten Digits Classification (k-NN)
 
-This project implements the k-Nearest Neighbors (k-NN) algorithm from scratch in Python,  
-and compares it with scikit-learn’s implementation.  
+A beginner-friendly **Machine Learning project** that implements the **k-Nearest Neighbors (k-NN)** algorithm from scratch in Python,  
+and compares it with scikit-learn’s implementation on the classic **Digits dataset (8x8 grayscale images of handwritten digits 0–9).**
 
 The model is trained on the Digits dataset (8x8 grayscale images of handwritten digits 0–9).
 
